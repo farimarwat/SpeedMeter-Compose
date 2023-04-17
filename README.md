@@ -1,5 +1,8 @@
 # SpeedMeter-Compose
 Speed Meter for android JetPack Compose
+<a href="">
+<img src="https://github.com/farimarwat/SpeedMeter-Compose/blob/master/speedmeter.gif" width="30%" height="30%"/>
+</a>
 
 ### Implementation
 ```
